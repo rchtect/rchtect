@@ -1,6 +1,6 @@
-![alt text](https://i.imgur.com/pSwSt7q.jpeg)
-
 ### 👾I'm rchtect - a programmer, developer, designer and music producer!
+
+![alt text](https://i.imgur.com/pSwSt7q.jpeg)
 
 ## 🙋🏽‍♂️About me
 I love problem solving, leading group projects and design. Something about using your creativity, whether it be to solve a problem efficiently or coming up with a design is really fun for me.
