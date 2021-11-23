@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/pSwSt7q.jpeg)
+
 ### 👾I'm rchtect - a programmer, developer, designer and music producer!
 
 ## 🙋🏽‍♂️About me
