@@ -1,5 +1,8 @@
 ### 👾I'm rchtect - a programmer, developer, designer and music producer!
 
+<img src="https://i.imgur.com/pSwSt7q.jpeg" alt=" Artwork made by rchtect"
+	title="Artwork made by me" width="1500" height="auto" />
+  
 ## 🙋🏽‍♂️About me
 I love problem solving, leading group projects and design. Something about using your creativity, whether it be to solve a problem efficiently or coming up with a design is really fun for me.
 
