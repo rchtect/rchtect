@@ -4,7 +4,7 @@
 	title="Artwork made by me" width="1500" height="auto" />
   
 ## 🙋🏽‍♂️About me
-I love problem solving, leading group projects and design. Something about using your creativity, whether it be to solve a problem efficiently or coming up with a design is really fun for me.
+I love problem solving and design. Something about using your creativity, whether it be to solve a problem efficiently or coming up with a design is really fun for me.
 
 ## ⚙️Techstack
 
